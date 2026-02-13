@@ -1,0 +1,5 @@
+{
+    "employee_id": "12345ABCDEF",
+    "channel_id": 1,
+    "post_content": "Hello from Jest"
+}
